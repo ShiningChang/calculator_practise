@@ -11,6 +11,7 @@ body{
 section{
     width: fit-content;
     margin: 0 auto;
+    outline: 1px solid orange;
     
 }
 header{
